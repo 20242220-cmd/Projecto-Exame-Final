@@ -1,0 +1,8 @@
+# clima.dat - RouteSim
+# Formato: aeroporto|condicao|duracao_ticks
+# Condicoes: TROVOADA | NEVOEIRO | VENTO_FORTE | NORMAL
+#
+FRA|TROVOADA|30
+NBO|NEVOEIRO|15
+DXB|VENTO_FORTE|20
+SYD|NEVOEIRO|10

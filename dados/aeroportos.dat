@@ -1,0 +1,24 @@
+# aeroportos.dat - RouteSim
+# Formato: codigo|nome_completo|pais|continente|num_pistas|pos_x|pos_y
+# Coordenadas pos_x/pos_y sao posicoes no ecra (terminal 120x30)
+#
+LUA|Aeroporto Internacional 4 de Fevereiro|Angola|Africa|2|10|22
+JNB|Aeroporto Internacional O.R. Tambo|Africa do Sul|Africa|3|14|28
+NBO|Aeroporto Internacional Jomo Kenyatta|Quenia|Africa|2|16|20
+LOS|Aeroporto Internacional Murtala Muhammed|Nigeria|Africa|2|8|18
+CMN|Aeroporto Internacional Mohammed V|Marrocos|Africa|2|6|12
+LHR|Aeroporto Internacional Heathrow|Reino Unido|Europa|5|18|6
+CDG|Aeroporto Internacional Charles de Gaulle|Franca|Europa|4|20|6
+FRA|Aeroporto Internacional de Frankfurt|Alemanha|Europa|4|22|6
+MAD|Aeroporto Internacional Adolfo Suarez|Espanha|Europa|4|16|8
+IST|Aeroporto Internacional de Istambul|Turquia|Europa|3|28|8
+JFK|Aeroporto Internacional John F. Kennedy|EUA|Americas|4|2|8
+MIA|Aeroporto Internacional de Miami|EUA|Americas|3|2|12
+MEX|Aeroporto Internacional Benito Juarez|Mexico|Americas|2|0|12
+GRU|Aeroporto Internacional de Guarulhos|Brasil|Americas|3|6|26
+EZE|Aeroporto Internacional Ministro Pistarini|Argentina|Americas|3|4|30
+DXB|Aeroporto Internacional de Dubai|Emirados Arabes Unidos|Asia|4|32|12
+SIN|Aeroporto Internacional Changi|Singapura|Asia|3|42|22
+PEK|Aeroporto Internacional Capital de Pequim|China|Asia|3|44|10
+NRT|Aeroporto Internacional Narita|Japao|Asia|3|48|10
+SYD|Aeroporto Internacional Kingsford Smith|Australia|Oceania|3|48|28
